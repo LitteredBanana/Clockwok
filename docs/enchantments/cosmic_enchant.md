@@ -1,8 +1,8 @@
-# ✨ Cosmic Enchantment — Sistem Enchant Custom
+# Cosmic Enchantment — Sistem Enchant Custom
 
 > **Referensi:** [Cosmic Enchants 200+](https://ae.advancedplugins.net/enchantments/list-of-enchantments/cosmic-enchants-200+)
 >
-> ⚠️ **PENTING:** Tier enchant di Server Alwination **TIDAK SAMA** dengan yang ada di link referensi!
+> **PENTING:** Tier enchant di Server Alwination **TIDAK SAMA** dengan yang ada di link referensi!
 
 ---
 
@@ -17,21 +17,21 @@
 
 | # | Tier | Harga (Minecraft EXP) | Kelipatan |
 |---|---|---|---|
-| 1 | ⚪ Common | 800 | — |
-| 2 | 🟢 Uncommon | 1,600 | ×2 |
-| 3 | 🔵 Rare | 3,200 | ×2 |
-| 4 | 🟣 Epic | 6,400 | ×2 |
-| 5 | 🟠 Legendary | 12,800 | ×2 |
-| 6 | 💀 Soul | 25,600 | ×2 |
-| 7 | 🦸 Heroic | 51,200 | ×2 |
-| 8 | 🌌 Cosmic | 102,400 | ×2 |
+| 1 | Common | 800 | — |
+| 2 | Uncommon | 1,600 | x2 |
+| 3 | Rare | 3,200 | x2 |
+| 4 | Epic | 6,400 | x2 |
+| 5 | Legendary | 12,800 | x2 |
+| 6 | Soul | 25,600 | x2 |
+| 7 | Heroic | 51,200 | x2 |
+| 8 | Cosmic | 102,400 | x2 |
 
 ---
 
 ## Pola Harga
 
-- Setiap tier naik **2× lipat** dari tier sebelumnya.
-- Dari **Common (800)** ke **Cosmic (102,400)** = naik **128× lipat**.
+- Setiap tier naik **2x lipat** dari tier sebelumnya.
+- Dari **Common (800)** ke **Cosmic (102,400)** = naik **128x lipat**.
 
 ---
 

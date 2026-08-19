@@ -1,10 +1,10 @@
-# 👥 Profil Tim
+# Profil Tim
 
 ---
 
 ## Anggota Tim
 
-### 1. MarenYole (Kamu)
+### 1. MarenYole
 
 | Atribut | Detail |
 |---|---|
@@ -18,11 +18,11 @@
 
 | Stat | Efek |
 |---|---|
-| Max Health | ✅ Bertambah (+) |
-| Knockback Resistance | ✅ Bertambah (+) |
-| Speed Malus Reduction | ✅ Bertambah (+) |
-| Movement Speed | ❌ Berkurang (-) |
-| Attack Speed | ❌ Berkurang (-) |
+| Max Health | + Bertambah |
+| Knockback Resistance | + Bertambah |
+| Speed Malus Reduction | + Bertambah |
+| Movement Speed | - Berkurang |
+| Attack Speed | - Berkurang |
 
 ---
 
@@ -31,7 +31,7 @@
 | Atribut | Detail |
 |---|---|
 | **Nickname** | Voseu |
-| **Ras** | ⚠️ *Belum ditentukan* |
+| **Ras** | *Belum ditentukan* |
 | **Peran** | Supplier barang penjualan in-game |
 | **Guild** | ClockWork |
 | **Tugas Utama** | Menyuplai barang untuk dijual di /ah |

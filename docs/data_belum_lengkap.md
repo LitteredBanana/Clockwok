@@ -1,10 +1,10 @@
-# ❓ Data yang Belum Lengkap
+# Data yang Belum Lengkap
 
 > Daftar informasi yang masih kosong atau perlu dilengkapi dari `info_awal.md`.
 
 ---
 
-## 🔴 Kritis (Harus Diisi Sebelum Analisis)
+## Kritis (Harus Diisi Sebelum Analisis)
 
 | # | Data yang Kurang | Lokasi |
 |---|---|---|
@@ -14,7 +14,7 @@
 
 ---
 
-## 🟡 Penting (Diperlukan untuk Perencanaan Bisnis)
+## Penting (Diperlukan untuk Perencanaan Bisnis)
 
 | # | Data yang Kurang | Lokasi |
 |---|---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## 🟢 Minor (Bisa Diisi Nanti)
+## Minor (Bisa Diisi Nanti)
 
 | # | Data yang Kurang | Lokasi |
 |---|---|---|

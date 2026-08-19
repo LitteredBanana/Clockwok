@@ -1,8 +1,8 @@
-# 🗿 Giant — Races Kit
+# Giant — Races Kit
 
-> ⚠️ **Data kit Giant belum tersedia.** Semua slot V1, V2, V3 masih kosong di sumber asli.
+> **Data kit Giant belum tersedia.** Semua slot V1, V2, V3 masih kosong di sumber asli.
 >
-> 📌 **MarenYole memilih ras ini.**
+> **MarenYole memilih ras ini.**
 
 ---
 

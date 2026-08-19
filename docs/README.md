@@ -1,10 +1,10 @@
-# 📘 Alwination — Dokumentasi Proyek
+# Alwination — Dokumentasi Proyek
 
 > **Tujuan:** Menganalisis cara menjadi **top player tercepat** di Server Minecraft Alwination — World Survival RPG.
 
 ---
 
-## 📂 Struktur Dokumentasi
+## Struktur Dokumentasi
 
 | Folder / File | Deskripsi |
 |---|---|
@@ -17,13 +17,13 @@
 
 ---
 
-## 🔗 Referensi Eksternal
+## Referensi Eksternal
 
 - [Cosmic Enchants 200+ — AdvancedPlugins](https://ae.advancedplugins.net/enchantments/list-of-enchantments/cosmic-enchants-200+)
 
 ---
 
-## ⚠️ Catatan
+## Catatan
 
 - Tier Custom Enchant di server Alwination **TIDAK SAMA** dengan yang ada di link referensi.
 - Data kit untuk ras **Demon** dan **Giant** belum lengkap (kosong).

@@ -1,4 +1,4 @@
-# 🧝 Elf — Races Kit
+# Elf — Races Kit
 
 ---
 
@@ -21,7 +21,7 @@
 | Obsidian Relic | ×128 |
 | Gold | ×80 |
 
-> 📝 Boots membutuhkan Obsidian Relic ×32 (lebih banyak dari slot lain yang ×24).
+> Boots membutuhkan Obsidian Relic ×32 (lebih banyak dari slot lain yang ×24).
 
 ---
 
@@ -44,7 +44,7 @@
 | Refined Ember | ×136 |
 | Gold | ×160 |
 
-> 📝 Chestplate & Legging membutuhkan Refined Ember ×32 (lebih banyak dari slot lain yang ×24).
+> Chestplate & Legging membutuhkan Refined Ember ×32 (lebih banyak dari slot lain yang ×24).
 
 ---
 
@@ -67,4 +67,4 @@
 | Dracula Seal | ×136 |
 | Hardened Gold Ingot | ×80 |
 
-> 📝 Chestplate & Legging membutuhkan Dracula Seal ×32 (lebih banyak dari slot lain yang ×24).
+> Chestplate & Legging membutuhkan Dracula Seal ×32 (lebih banyak dari slot lain yang ×24).

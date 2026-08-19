@@ -1,16 +1,16 @@
-# 🎒 Database Item RPG — Alwination
+# Database Item RPG — Alwination
 
 ---
 
 ## Legenda Rarity
 
-| Simbol | Rarity |
+| Tag | Rarity |
 |---|---|
-| ⚪ | Common |
-| 🟢 | Uncommon |
-| 🔵 | Rare |
-| 🟣 | Ultra Rare |
-| 🟡 | Mythical |
+| [C] | Common |
+| [U] | Uncommon |
+| [R] | Rare |
+| [UR] | Ultra Rare |
+| [M] | Mythical |
 
 ---
 
@@ -18,21 +18,21 @@
 
 | Item | Rarity | Sumber Drop |
 |---|---|---|
-| Gold *(bukan vanilla)* | ⚪ Common | Mob RPG — Overworld |
-| Ember Fragment | 🟢 Uncommon | Mob RPG — Overworld |
-| Obsidian Relic | 🟢 Uncommon | Mob RPG — Nether |
-| Undead Heart | 🔵 Rare | Mob RPG — Overworld |
-| Mythril Fragment | 🔵 Rare | Mob RPG — Overworld & Dungeon |
-| Valdrak Core | 🟣 Ultra Rare | Bos — Dungeon Lapisan 1 |
-| Dracula Seal | 🟣 Ultra Rare | Mob RPG — Dungeon Lapisan 2 |
-| Morthazar Core | 🟣 Ultra Rare | Bos — Dungeon Lapisan 2 |
+| Gold *(bukan vanilla)* | [C] Common | Mob RPG — Overworld |
+| Ember Fragment | [U] Uncommon | Mob RPG — Overworld |
+| Obsidian Relic | [U] Uncommon | Mob RPG — Nether |
+| Undead Heart | [R] Rare | Mob RPG — Overworld |
+| Mythril Fragment | [R] Rare | Mob RPG — Overworld & Dungeon |
+| Valdrak Core | [UR] Ultra Rare | Bos — Dungeon Lapisan 1 |
+| Dracula Seal | [UR] Ultra Rare | Mob RPG — Dungeon Lapisan 2 |
+| Morthazar Core | [UR] Ultra Rare | Bos — Dungeon Lapisan 2 |
 | Crimson Veil | *(belum ada info)* | *(belum ada info)* |
 
 ---
 
 ## Item Sintesis (Harus Di-craft)
 
-### 🔵 Refined Ember (Rare)
+### Refined Ember [R]
 
 | Material | Jumlah |
 |---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-### 🔵 Hardened Gold Ingot (Rare)
+### Hardened Gold Ingot [R]
 
 | Material | Jumlah |
 |---|---|
@@ -50,11 +50,11 @@
 | Refined Ember | x8 |
 | Gold | x64 |
 
-> ⚠️ **Catatan:** Ada duplikasi data di sumber asli. Satu entri kosong, satu entri lengkap. Resep di atas menggunakan data yang lengkap.
+> **Catatan:** Ada duplikasi data di sumber asli. Satu entri kosong, satu entri lengkap. Resep di atas menggunakan data yang lengkap.
 
 ---
 
-### 🟣 Primordial Mythril (Ultra Rare)
+### Primordial Mythril [UR]
 
 | Material | Jumlah |
 |---|---|
@@ -64,35 +64,35 @@
 
 ---
 
-### 🟡 Relic of Eternity (Mythical)
+### Relic of Eternity [M]
 
-> ⚠️ **Resep sintesis belum diketahui** — data kosong di sumber asli.
+> **Resep sintesis belum diketahui** — data kosong di sumber asli.
 
 ---
 
 ## Hierarki Item (Dari Rendah ke Tinggi)
 
 ```
-⚪ Common
+[C] Common
 │  └── Gold
 │
-🟢 Uncommon
+[U] Uncommon
 │  ├── Ember Fragment
 │  └── Obsidian Relic
 │
-🔵 Rare
+[R] Rare
 │  ├── Undead Heart (drop)
 │  ├── Mythril Fragment (drop)
 │  ├── Refined Ember (sintesis)
 │  └── Hardened Gold Ingot (sintesis)
 │
-🟣 Ultra Rare
+[UR] Ultra Rare
 │  ├── Valdrak Core (drop — Dungeon L1 Bos)
 │  ├── Primordial Mythril (sintesis)
 │  ├── Dracula Seal (drop — Dungeon L2 Mob)
 │  └── Morthazar Core (drop — Dungeon L2 Bos)
 │
-🟡 Mythical
+[M] Mythical
    └── Relic of Eternity (sintesis — resep belum diketahui)
 ```
 

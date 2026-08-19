@@ -1,6 +1,6 @@
-# 😈 Demon — Races Kit
+# Demon — Races Kit
 
-> ⚠️ **Data kit Demon belum tersedia.** Semua slot V1, V2, V3 masih kosong di sumber asli.
+> **Data kit Demon belum tersedia.** Semua slot V1, V2, V3 masih kosong di sumber asli.
 
 ---
 
