@@ -23,7 +23,7 @@
 | Obsidian Relic | [U] Uncommon | Mob RPG — Nether |
 | Undead Heart | [R] Rare | Mob RPG — Overworld |
 | Mythril Fragment | [R] Rare | Mob RPG — Overworld & Dungeon |
-| Valdrak Core | [UR] Ultra Rare | Bos — Dungeon Lapisan 1 |
+| Valdrak of Ancient Lord | [UR] Ultra Rare | Bos — Dungeon Lapisan 1 |
 | Dracula Seal | [UR] Ultra Rare | Mob RPG — Dungeon Lapisan 2 |
 | Morthazar Core | [UR] Ultra Rare | Bos — Dungeon Lapisan 2 |
 | Crimson Veil | *(belum ada info)* | *(belum ada info)* |
@@ -66,7 +66,10 @@
 
 ### Relic of Eternity [M]
 
-> **Resep sintesis belum diketahui** — data kosong di sumber asli.
+| Material | Jumlah |
+|---|---|
+| Valdrak of Ancient Lord | x2 |
+| Gold | x64 |
 
 ---
 
@@ -87,13 +90,13 @@
 │  └── Hardened Gold Ingot (sintesis)
 │
 [UR] Ultra Rare
-│  ├── Valdrak Core (drop — Dungeon L1 Bos)
+│  ├── Valdrak of Ancient Lord (drop — Dungeon L1 Bos)
 │  ├── Primordial Mythril (sintesis)
 │  ├── Dracula Seal (drop — Dungeon L2 Mob)
 │  └── Morthazar Core (drop — Dungeon L2 Bos)
 │
 [M] Mythical
-   └── Relic of Eternity (sintesis — resep belum diketahui)
+   └── Relic of Eternity (sintesis)
 ```
 
 ---
@@ -126,4 +129,8 @@ Primordial Mythril
     Mythril Fragment:  72  (8 + 64)
     Ember Fragment:    128
     Gold:              256 (192 + 64)
+
+Relic of Eternity
+├── Valdrak of Ancient Lord x2
+└── Gold x64
 ```

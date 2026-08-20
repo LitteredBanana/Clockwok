@@ -6,20 +6,13 @@
 
 ## Kritis (Harus Diisi Sebelum Analisis)
 
-| # | Data yang Kurang | Lokasi |
-|---|---|---|
-| 1 | **Ras Voseu** — belum ditentukan ras apa yang akan dipakai | [profil_tim.md](../docs/tim/profil_tim.md) |
-| 2 | **Kit Demon V1, V2, V3** — semua slot kosong | [demon_kit.md](../docs/races_kit/demon_kit.md) |
-| 3 | **Kit Giant V1, V2, V3** — semua slot kosong | [giant_kit.md](../docs/races_kit/giant_kit.md) |
+> Semua data kritis (Ras & Stat/Set Bonus) sudah lengkap.
 
 ---
 
 ## Penting (Diperlukan untuk Perencanaan Bisnis)
 
-| # | Data yang Kurang | Lokasi |
-|---|---|---|
-| 4 | **Harga jual semua barang** — belum ditentukan | [rencana_jualan.md](../docs/bisnis/rencana_jualan.md) |
-| 5 | **Resep Relic of Eternity** — data sintesis kosong | [database_item.md](../docs/items/database_item.md) |
+> Harga barang jualan utama (RPG, spawner, enchant) sudah ditentukan.
 
 ---
 

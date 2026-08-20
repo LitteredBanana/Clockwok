@@ -31,19 +31,59 @@
 | Atribut | Detail |
 |---|---|
 | **Nickname** | Voseu |
-| **Ras** | *Belum ditentukan* |
+| **Ras** | Elf |
 | **Peran** | Supplier barang penjualan in-game |
 | **Guild** | ClockWork |
-| **Tugas Utama** | Menyuplai barang untuk dijual di /ah |
+| **Tugas Utama** | Menyuplai barang untuk dijual di /pwarp workshop |
+
+**Stat Ras Elf:**
+
+| Stat | Efek |
+|---|---|
+| Mana Regeneration | + Bertambah |
+| Health Regeneration | + Bertambah |
+| Max Mana | + Bertambah |
+| Max Health | - Berkurang |
+
+---
+
+### 3. kasirkopdes (Member Baru)
+
+| Atribut | Detail |
+|---|---|
+| **Nickname** | kasirkopdes |
+| **Ras** | Demon |
+| **Peran** | *Belum ditentukan* |
+| **Guild** | ClockWork |
+| **Tugas Utama** | *Belum ditentukan* |
+
+**Stat Ras Demon:**
+
+| Stat | Efek |
+|---|---|
+| Attack Damage | + Bertambah |
+| Attack Speed | + Bertambah |
+| Max Health | + Bertambah |
+| Speed Malus Reduction | + Bertambah |
+| Movement Speed | - Berkurang |
 
 ---
 
 ## Pembagian Tugas
 
-```
-MarenYole (Guild Leader)          Voseu (Supplier)
-├── Membuat guild ClockWork       ├── Farming item RPG
-├── Mengurus anggota guild        ├── Farming spawner
-├── Strategi & analisis           ├── Menyuplai /ah
-└── Koordinasi tim                └── Pengumpulan resource
+```text
+MarenYole (Guild Leader)
+├── Membuat guild ClockWork
+├── Mengurus anggota guild
+├── Strategi & analisis
+└── Koordinasi tim
+
+Voseu (Supplier)
+├── Farming item RPG
+├── Farming spawner
+├── Menyuplai /pwarp workshop
+└── Pengumpulan resource
+
+kasirkopdes (Member)
+└── (Tugas belum ditentukan)
 ```

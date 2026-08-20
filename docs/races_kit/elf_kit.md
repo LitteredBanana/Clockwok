@@ -93,17 +93,17 @@
 
 | Slot           | Material 1 | Material 2            | Material 3        | Material 4 |
 | -------------- | ---------- | --------------------- | ----------------- | ---------- |
-| **Trident**    | Valdrak ×1 | Primordial Mythril ×8 | Refined Ember ×24 | Gold ×32   |
-| **Helmet**     | Valdrak ×1 | Primordial Mythril ×8 | Refined Ember ×24 | Gold ×32   |
-| **Chestplate** | Valdrak ×1 | Primordial Mythril ×8 | Refined Ember ×32 | Gold ×32   |
-| **Legging**    | Valdrak ×1 | Primordial Mythril ×8 | Refined Ember ×32 | Gold ×32   |
-| **Boots**      | Valdrak ×1 | Primordial Mythril ×8 | Refined Ember ×24 | Gold ×32   |
+| **Trident**    | Valdrak of Ancient Lord ×1 | Primordial Mythril ×8 | Refined Ember ×24 | Gold ×32   |
+| **Helmet**     | Valdrak of Ancient Lord ×1 | Primordial Mythril ×8 | Refined Ember ×24 | Gold ×32   |
+| **Chestplate** | Valdrak of Ancient Lord ×1 | Primordial Mythril ×8 | Refined Ember ×32 | Gold ×32   |
+| **Legging**    | Valdrak of Ancient Lord ×1 | Primordial Mythril ×8 | Refined Ember ×32 | Gold ×32   |
+| **Boots**      | Valdrak of Ancient Lord ×1 | Primordial Mythril ×8 | Refined Ember ×24 | Gold ×32   |
 
 **Total Material V2 (5 item):**
 
 | Material           | Total |
 | ------------------ | ----- |
-| Valdrak            | ×5    |
+| Valdrak of Ancient Lord            | ×5    |
 | Primordial Mythril | ×40   |
 | Refined Ember      | ×136  |
 | Gold               | ×160  |

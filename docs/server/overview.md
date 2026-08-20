@@ -35,6 +35,8 @@
 
 ### 1. Elf
 
+**Body Size:** 1.0
+
 | Stat | Efek |
 |---|---|
 | Mana Regeneration | + Bertambah |
@@ -47,6 +49,8 @@
 ---
 
 ### 2. Demon
+
+**Body Size:** 1.1
 
 | Stat | Efek |
 |---|---|
@@ -61,6 +65,8 @@
 ---
 
 ### 3. Giant
+
+**Body Size:** 1.3
 
 | Stat | Efek |
 |---|---|
